@@ -1,0 +1,24 @@
+O que precisa ser feito
+
+Dashboard:
+	Colocar informacoes no dashboard
+Pedidos:
+	Adicionar botao para criar ordem
+Categorias:
+	Melhorar tabela
+	Editar Infos cascade onDelete
+	Search
+	Modal 
+Produtos:
+	Melhorar tabela
+	Editar Infos
+	Search
+	Modal 
+Produto create
+
+Criar parte de usuarios com tabela, edicao, roles
+
+Produto criar:
+	Attempt to read property "name" on null
+
+Validacao em todos os campos
